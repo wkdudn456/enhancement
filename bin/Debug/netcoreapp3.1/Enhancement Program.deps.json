@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Enhancement Program/1.0.0": {
+        "runtime": {
+          "Enhancement Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enhancement Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
